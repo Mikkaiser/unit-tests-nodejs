@@ -8,7 +8,7 @@ Project in development... :rocket:
 - Run the `npm install` or `yarn install` command to install all necessary packages;
 - Run `npm test` or `yarn test` to run all the jest tests;
 
-##Features
+## Features
 - [x] Models
 - [x] Database Configuration
 - [x] pretest and posttest scripts
