@@ -13,4 +13,6 @@ Project in development... :rocket:
 - [x] Database Configuration
 - [x] pretest and posttest scripts
 - [x] Authentication test
-- [ ] Route configuration
+- [x] Route configuration
+- [ ] Test for invalid authentication
+- [ ] JWT token generation
