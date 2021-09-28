@@ -14,5 +14,6 @@ Project in development... :rocket:
 - [x] pretest and posttest scripts
 - [x] Authentication test
 - [x] Route configuration
-- [ ] Test for invalid authentication
-- [ ] JWT token generation
+- [x] Test for invalid authentication
+- [x] JWT token generation
+- [x] JWT token validation
